@@ -18,8 +18,8 @@ This program simulates a temperature control system. It generates a random curre
 - C compiler (e.g., GCC)
 ### Instructions
 1. Clone the repository or download the source code files.
-2. Compile the code using the C compiler. For example, using GCC:
-3. Run the executable:
+2. Compile the code using the C compiler. For example, using GCC.
+3. Run the executable.
 4. Follow the prompts to enter the desired temperature.
 5. The program will continuously adjust the current temperature and display the results until the desired temperature is reached or the program is terminated.
 6. This Programs can also be terminated if you enter the desired temperature value which equals to the current temperature.
