@@ -16,6 +16,7 @@ This program simulates a temperature control system. It generates a random curre
 
 ### Prerequisites
 - C compiler (e.g., GCC)
+- For the code execution, I worked with Codeblocks.
 ### Instructions
 1. Clone the repository or download the source code files.
 2. Compile the code using the C compiler. For example, using GCC.
@@ -23,7 +24,7 @@ This program simulates a temperature control system. It generates a random curre
 4. Follow the prompts to enter the desired temperature.
 5. The program will continuously adjust the current temperature and display the results until the desired temperature is reached or the program is terminated.
 6. This Programs can also be terminated if you enter the desired temperature value which equals to the current temperature.
-7. You run the loop continuously by changing the while loop condition to `1` (It runs until you close the terminal).
+7. You can run the loop continuously by changing the while loop condition to `1` (It runs until you close the terminal).
 
 ## Customization
 
